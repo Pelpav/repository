@@ -41,4 +41,6 @@
         (résoudre les conflits si nécessaire)
         git add .
         git rebase --continue
-        git push origin main
+        git push origin main$
+        git add .
+        git commit -a -m "Final commit"
