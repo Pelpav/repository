@@ -1,9 +1,13 @@
 1. Initialisation et Configuration
     a. Clonage
         git clone https://github.com/Pelpav/repository
+        Créer report.md
+        git add report.md
+        git commit -m "Initial Commit"
+        git push origin main
     b. Config user.email et user.name
-        git config --global user.email "you@example.com"
-        git config --global user.name "Your Name"
+        git config --global user.email "elpav2022@gmail.com"
+        git config --global user.name "Pelpav"
 2. Création de branches et de développement
     a. Créer et basculer vers une nouvelle branche nommée "feature"
         git checkout -b feature
