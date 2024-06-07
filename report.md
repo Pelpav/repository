@@ -4,7 +4,6 @@
         Créer report.md
         git add report.md
         git commit -m "Initial Commit"
-        git push origin main
     b. Config user.email et user.name
         git config --global user.email "elpav2022@gmail.com"
         git config --global user.name "Pelpav"
